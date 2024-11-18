@@ -1,3 +1,9 @@
+html {
+    background-color: #eee;
+    font-size: 1px;
+    color: var(--color-grey-400);
+}
+
 h1 {
     font: var(--font-h1);
     font-size: var(--typography-h1-font-size);
